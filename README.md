@@ -1,2 +1,1 @@
-# WEATHER
-#BharatIntern
+# WEATHER APP
